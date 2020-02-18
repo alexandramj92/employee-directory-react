@@ -1,0 +1,153 @@
+[
+    {
+        "id": 1,
+        "firstName": "Sabrina",
+        "lastName": "Williams",
+        "department": "Marketing",
+        "title": "Marketing Director",
+        "location": "Los Angeles",
+        "hobby": "Tennis"
+        
+    },
+    {
+        "id": 2,
+        "firstName": "Marc",
+        "lastName": "Jacobs",
+        "department": "Finance",
+        "title": "Chief Financial Officer",
+        "location": "New York",
+        "hobby": "Snowboarding"
+        
+    },
+    {
+        "id": 3,
+        "firstName": "Frank",
+        "lastName": "Crawford",
+        "department": "Product",
+        "title": "Product Designer",
+        "location": "Los Angeles",
+        "hobby": "Surfing"
+        
+    },
+    {
+        "id": 4,
+        "firstName": "Rebecca",
+        "lastName": "Johnson",
+        "department": "Marketing",
+        "title": "Marketing Assistant",
+        "location": "Los Angeles",
+        "hobby": "Painting"
+        
+    },
+    {
+        "id": 5,
+        "firstName": "Tim",
+        "lastName": "Rose",
+        "department": "Marketing",
+        "title": "Marketing Analyst",
+        "location": "Los Angeles",
+        "hobby": "Video Games"
+        
+    },
+    {
+        "id": 6,
+        "firstName": "Jeremy",
+        "lastName": "Kelly",
+        "department": "Product",
+        "title": "Chief Product Officer",
+        "location": "New York",
+        "hobby": "Cooking"
+        
+    },
+    {
+        "id": 7,
+        "firstName": "Roger",
+        "lastName": "Drupal",
+        "department": "Marketing",
+        "title": "Content Creator",
+        "location": "Los Angeles",
+        "hobby": "Woodworking"
+        
+    },
+    {
+        "id": 8,
+        "firstName": "Tina",
+        "lastName": "Tims",
+        "department": "Finance",
+        "title": "Accountant",
+        "location": "New York",
+        "hobby": "Skydiving"
+        
+    },
+    {
+        "id": 9,
+        "firstName": "Tessa",
+        "lastName": "Sempra",
+        "department": "Product",
+        "title": "Junior Product Manager",
+        "location": "Los Angeles",
+        "hobby": "Running"
+        
+    },
+    {
+        "id": 10,
+        "firstName": "Brian",
+        "lastName": "Kurt",
+        "department": "Finance",
+        "title": "Administrative Manager",
+        "location": "New York",
+        "hobby": "Hiking"
+        
+    },
+    {
+        "id": 11,
+        "firstName": "Lilia",
+        "lastName": "Fitzgerald",
+        "department": "Marketing",
+        "title": "Social Media Strategist",
+        "location": "Los Angeles",
+        "hobby": "Swimming"
+        
+    },
+    {
+        "id": 12,
+        "firstName": "Max",
+        "lastName": "Jennings",
+        "department": "Finance",
+        "title": "Financial Analyst",
+        "location": "New York",
+        "hobby": "Board Games"
+        
+    },
+    {
+        "id": 13,
+        "firstName": "Craig",
+        "lastName": "Turnby",
+        "department": "Product",
+        "title": "VP Product",
+        "location": "Los Angeles",
+        "hobby": "Skateboarding"
+        
+    },
+    {
+        "id": 14,
+        "firstName": "Jessica",
+        "lastName": "Ritz",
+        "department": "Finance",
+        "title": "Internal Auditor",
+        "location": "New York",
+        "hobby": "Escape Rooms"
+        
+    },
+    {
+        "id": 15,
+        "firstName": "Morgan",
+        "lastName": "Stanley",
+        "department": "Marketing",
+        "title": "Digital Brand Manager",
+        "location": "Los Angeles",
+        "hobby": "Polo"
+        
+    }
+
+]
